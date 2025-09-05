@@ -7,7 +7,7 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > [!IMPORTANT]
 > **Due Monday 8th, 11pm**
 
-### Rose trying to play around with this
+### Rose trying to play around 
 
 
 ### Thorn
@@ -31,6 +31,7 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > [!IMPORTANT]
 
 > **No Cohort discussion due this week**
+
 
 
 

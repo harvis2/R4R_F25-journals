@@ -17,7 +17,6 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 
 
 ---
-
 ## Research Application
 
 > [!IMPORTANT]
@@ -31,4 +30,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 
 > **Due Thursday 18th, 11am**
 >At the cohort meeting, we discussed how public health researchers manage biases in their results. One main point raised was that comparing multiple samples can be an effective strategy to mitigate bias. We also explored methods for securely storing data. I concluded that adhering to the data storage requirements set by funders or sponsors is often the safest approach. Additionally, we discussed open data kit (ODK), a free and open-source suite of tools that enables organizations to collect, manage, and utilize data in resource-limited settings. Overall, it was a highly engaging and insightful session filled with valuable knowledge sharing.
+
 

@@ -8,10 +8,10 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Wednesday 29th, 11pm**
 
 ### Rose
-CyVerse offers powerful tools for data management and reproducible workflows, especially valuable for large-scale research which can be applied to biomass conversion projects.
+For me, CyVerse offers powerful tools for data management and reproducible workflows, especially valuable for large-scale research which can be applied to biomass conversion projects.
 
 ### Thorn
-Initial setup and navigation can be overwhelming for new users, especially when integrating containers or HPC resources without prior experience.
+well I think Initial setup and navigation can be overwhelming for new users, especially when integrating containers or HPC resources without prior experience.
 
 ### Bud
 With more hands-on training, CyVerse could become a good platform for collaborative research, open science across disciplines, especially for sharing datasets and reproducible pipelines.
@@ -31,3 +31,4 @@ With more hands-on training, CyVerse could become a good platform for collaborat
 > [!IMPORTANT]
 
 > **Due Thursday 6th, 11am**
+
